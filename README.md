@@ -4,3 +4,9 @@
 </div>
 
 Welcome to MemoryInspector. A program that could inject code and inspect memory addresses from any sort of program.
+
+
+
+# Versions
+
+Version 0.0.1 
